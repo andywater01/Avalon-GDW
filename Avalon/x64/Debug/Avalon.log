@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\Andy\Creative Cloud Files\First Year Uni\Second Sem\GDW2\Avalon LLC\Avalon\Avalon\Enemies.h(19,2): warning C4094:  untagged 'class' declared no symbols
+AnimationController.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+SOIL_ext.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'SOIL_ext.lib(etc1_utils.obj)' or at 'C:\Users\Andy\Creative Cloud Files\First Year Uni\Second Sem\GDW2\Avalon LLC\Avalon\x64\Debug\soil2-debug.pdb'; linking object as if no debug info
+SOIL_ext.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'SOIL_ext.lib(image_DXT.obj)' or at 'C:\Users\Andy\Creative Cloud Files\First Year Uni\Second Sem\GDW2\Avalon LLC\Avalon\x64\Debug\soil2-debug.pdb'; linking object as if no debug info
+SOIL_ext.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'SOIL_ext.lib(image_helper.obj)' or at 'C:\Users\Andy\Creative Cloud Files\First Year Uni\Second Sem\GDW2\Avalon LLC\Avalon\x64\Debug\soil2-debug.pdb'; linking object as if no debug info
+SOIL_ext.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'SOIL_ext.lib(SOIL2.obj)' or at 'C:\Users\Andy\Creative Cloud Files\First Year Uni\Second Sem\GDW2\Avalon LLC\Avalon\x64\Debug\soil2-debug.pdb'; linking object as if no debug info
+  Avalon.vcxproj -> C:\Users\Andy\Creative Cloud Files\First Year Uni\Second Sem\GDW2\Avalon LLC\Avalon\x64\Debug\Avalon.exe
